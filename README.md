@@ -1,4 +1,4 @@
-# Windows Cmd Cheat Sheet
+# Windows CMD Cheat Sheet
 
 ### Dosya ve Klasör Komutları
 | Komut | Açıklama |
